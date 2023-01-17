@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenakins
 - 👀 I’m interested in Python and Penetration Testing
-- 🌱 I’m currently studying for the A+ Comptia exam
+- 🌱 A+ and ITIL Certified, working towards Linux+ and Sec+ Certifications
 - 💞️ I’m looking to collaborate on any portfolio pieces
 - 📫 How to reach me makenabarnett@gmail.com
 
